@@ -11,8 +11,8 @@ My version of JDWDF-OldGen, used for Just Dance Online Old-Gen, I worked on up t
 ## How to install
 
 - Use `git clone https://github.com/devvjs/jd-oldgen.git` or download the repo as a ZIP file directly.
-- Once you are done, go into `jdcs` folder and run `npm i` to install all packages that are required.
-- After that, you can run the server by `node jdcs.js`.
+- Once you are done, go into `jd-oldgen` folder and run `npm i` to install all packages that are required.
+- After that, you can run the server by `node ws.js`.
 
 ## License
 There is no license for this project currently.
