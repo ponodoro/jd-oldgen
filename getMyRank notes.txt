@@ -1,0 +1,101 @@
+onlinescore=1
+sid=154295491
+song_id=8670758434487
+star_score=0
+token=JtN0qqnbyLZrobcSqjMqpp0iJCXwUMmr1CidEkEbHaZToJqB8oMTuM8rtbL19b8E/USIZmZczgp8Hv25rFIPrg==
+
+------------
+
+method_id=914
+onlinescore_updated=1
+score0=10816
+name0=GANG
+pays0=8483
+rank0=8
+avatar0=741
+onlinescore0=948
+sid0=154295478
+
+score1=0
+name1=LINA
+pays1=8429
+rank1=24
+avatar1=591
+onlinescore1=109
+sid1=154295418
+
+score2=11142
+name2=KOBE
+pays2=8521
+rank2=5
+avatar2=730
+onlinescore2=252
+sid2=154295464
+
+score3=9049
+name3=EVER
+pays3=8483
+rank3=13
+avatar3=743
+onlinescore3=18
+sid3=154295445
+
+score4=11768
+name4=MSV9XD
+pays4=8450
+rank4=3
+avatar4=809
+onlinescore4=1827
+sid4=154295436
+
+score5=2091
+name5=MAMAB
+pays5=8521
+rank5=19
+avatar5=813
+onlinescore5=23
+sid5=154295497
+
+score6=7441
+name6=GUILI
+pays6=8521
+rank6=14
+avatar6=526
+onlinescore6=113
+sid6=154295242
+
+score7=5142
+name7=AEIA
+pays7=8521
+rank7=17
+avatar7=738
+onlinescore7=8
+sid7=154295472
+
+score8=11784
+name8=VANESSA
+pays8=8429
+rank8=2
+avatar8=832
+onlinescore8=180
+sid8=154295398
+
+^^ if these are the players in lobby ... how tf there are 9 ppl
+
+count=30 // amount of users
+total=24 // i think this is count - amount of people in our lobby(?)
+myrank=15 // rank of user
+myscore=7210 // total_score of user
+song_id=8670758434487 // nextsong sid from playlistpos
+theme0=98564
+theme1=73253
+coach0=0
+coach1=0
+coach2=0
+coach3=0
+nb_winners=22 // what is this 
+star_score=0 // amount of stars earned by requester(?)
+numscores=9 // what is this (i think um ... this is  idk)
+
+t=586377051.58423
+stat=1

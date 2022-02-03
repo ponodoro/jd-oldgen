@@ -1,0 +1,1 @@
+It would be best to make WDF module-like, so we can re-use it later.

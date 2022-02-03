@@ -1,0 +1,127 @@
+----- getPlayerScores
+
+---- REQUEST 1
+
+--- request body
+
+coachindex=0
+event=
+lastmove=0
+score=0
+send_score=1
+sid=154295491
+sid_list=
+song_id=8670758434487
+stars=0
+themeindex=0
+token=JtN0qqnbyLZrobcSqjMqpp0iJCXwUMmr1CidEkEbHaZToJqB8oMTuM8rtbL19b8E%2FUSIZmZczgp8Hv25rFIPrg==
+total_score=0
+
+--- response body
+
+method_id=1564
+num=1
+t=586376865.504
+score=0
+rank=18
+count=26
+total=21
+theme0=4908
+theme1=3841
+coach0=0
+coach1=0
+coach2=0
+coach3=0
+stat=1
+
+
+
+
+
+---- REQUEST 2
+
+--- request body
+
+coachindex=1
+event=0%2C1%2C1%2A1%2C1%2C1%2A2%2C0%2C1%2A
+lastmove=0
+score=0
+send_score=1
+sid=154295491
+sid_list=154295398%3B154295478%3B154295370%3B154295242%3B154295473%3B154295436%3B154295413154295461
+song_id=8668570424575
+stars=0
+themeindex=1
+token=JtN0qqnbyLZrobcSqjMqpp0iJCXwUMmr1CidEkEbHaZToJqB8oMTuM8rtbL19b8E%2FUSIZmZczgp8Hv25rFIPrg==
+total_score=1306
+
+--- response body
+
+method_id=1564
+
+s_1=154295398                    // sid
+sc_1=3073                        // total_score
+r_1=7                            // rank in the wdf
+e_1=46,0,0*47,1,1*48,1,1*49,0,0* // event from clients body
+c_1=0                            // coach index
+o_1=187                          // online score (in jd15, there was this thing where it would display all the players in a lobby, it shows their rank)
+
+s_2=154295478
+sc_2=3275
+r_2=4
+e_2=2,0,1*3,1,1*4,1,1*5,0,1*
+c_2=0
+o_2=951
+
+s_3=154295370
+sc_3=0 
+r_3=22
+e_3=26,0,0*27,1,1*28,0,1*29,1,1*
+c_3=0
+o_3=36
+
+s_4=154295242
+sc_4=2080
+r_4=16
+e_4=89,0,0*90,1,1*91,1,1*92,0,1*
+c_4=0
+o_4=118
+
+s_5=154295473
+sc_5=2947
+r_5=10
+e_5=10,0,1*11,1,1*12,1,1*13,0,0*
+c_5=0
+o_5=15
+
+s_6=154295436
+sc_6=3051
+r_6=8
+e_6=24,1,1*25,1,1*26,1,1*27,0,0*
+c_6=1 
+o_6=1834
+
+// this user's E C O is missing, we dont know if they disconnected or their send_score was 0
+s_7=154295413154295461
+sc_7=-1 
+r_7=1
+
+
+num=8 // number of players in lobby 
+
+t=586377188.013 // server time (die)
+
+score=1306 // requester's score from body
+
+rank=18 // user rank in the wdf
+count=27 // count of users
+total=22 // possible total num of players in country
+
+theme0=0 // theme0 option scores (sum of all scores from the players in wdf that chose theme0)
+theme1=0 // theme1
+
+coach0=22982 // coach0 scores (sum of all scores from the players in wdf as coach0)
+coach1=27755 // coach1
+coach2=0
+coach3=0 
+stat=1

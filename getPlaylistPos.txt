@@ -1,0 +1,52 @@
+method_id=1444
+
+mode=1 // 1 = battle, 2 = normal, 3 = vote
+nextmode=3
+
+start=586376831.587 // start mode time
+end=586377048.68 // end mode time (with song length)
+
+unique_song_id=8670758434487
+
+// don't change, default
+sessionToWorldResultTime=30
+display_next_song_time=10
+session_recap_time=20
+
+// default for theme choice, turn 0 if not mode
+theme_choice_duration=15
+theme_result_duration=15
+
+// same as theme choice
+coach_choice_duration=0
+coach_result_duration=0
+
+vote1=0
+vote2=0
+vote3=0
+vote4=0
+votenumresult=0
+vote1_song=0
+vote2_song=0
+vote3_song=0
+vote4_song=0
+rankwait=2
+nextsong=8668570424575
+votenumchoices=0
+vote_end=586377111.68
+requestPlaylistTime=586377115.68
+pos=-24.325
+next4=0
+next3=0
+next2=0
+next1=0
+- these two below dont exist on other modes
+community1name=Rayman
+community2name=Raving Rabbids
+left=241.418
+interlude=yes
+count=26
+t=586376807.262
+stat=1
+
+lov u
